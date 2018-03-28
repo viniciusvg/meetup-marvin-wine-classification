@@ -1,0 +1,28 @@
+[{
+    "wine_type": "red",
+    "fixed acidity": 7.95230379,   
+    "volatile acidity": 0.34343089,   
+    "citric acid": 0.37179949,   
+    "residual sugar": 2.07615189,
+    "chlorides": 0.07565691,  
+    "free sulfur dioxide": 13.96232916,  
+    "total sulfur dioxide": 22.06693674,   
+    "density": 0.9948003,
+    "pH": 3.21514633,   
+    "sulphates": 0.76075342,  
+    "alcohol": 11.48284557
+},
+{
+    "wine_type": "white",
+    "fixed acidity": 7.95230379,   
+    "volatile acidity": 0.34343089,   
+    "citric acid": 0.37179949,   
+    "residual sugar": 2.07615189,
+    "chlorides": 0.07565691,  
+    "free sulfur dioxide": 13.96232916,  
+    "total sulfur dioxide": 22.06693674,   
+    "density": 0.9948003,
+    "pH": 3.21514633,   
+    "sulphates": 0.76075342,  
+    "alcohol": 11.48284557
+}]
